@@ -26,7 +26,7 @@ A mobile application and website for **Adventure Escape SA**, a Western Cape (So
 | Deliverable | Link |
 |---|---|
 | Figma high-fidelity wireframes (24 screens) | https://www.figma.com/design/PhWOlXfvjx0qxlKxaynZ2H/Adventure-Escape-SA---High-Fidelity?node-id=35-2&t=Su6C8wrM6Rw3DROa-1 |
-| Group video demonstration (YouTube, unlisted) | _paste link here_ |
+| Group video demonstration (YouTube, unlisted) | https://youtu.be/1XnlWSnYKCs |
 
 ---
 
