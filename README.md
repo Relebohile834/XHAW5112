@@ -143,6 +143,16 @@ Example: Guided Hiking + Outdoor Experience for 2 people with all three add-ons 
 
 ---
 
+# References
+
+Figma, 2026. Figma. [online] Available at: <https://www.figma.com/design/PhWOlXfvjx0qxlKxaynZ2H/Adventure-Escape-SA---High-Fidelity?node-id=35-2&t=hnpGOdJmR7liOae5-1> [Accessed 03 October 2026]. 
+Figma, 2026. Figma. [online] Available at: <https://www.figma.com/> [Accessed 03 October 2026]. 
+GitHub, 2026. GitHub. [online] Available at: <https://github.com/Relebohile834/XHAW5112> [Accessed 03 October 2026]. 
+GitHub, 2026. GitHub. [online] Available at: <https://github.com/> [Accessed 03 October 2026]. 
+YouTube, 2026. YouTube. [online] Available at: <https://youtu.be/1XnlWSnYKCs> [Accessed 03 October 2026]. 
+YouTube, 2026. YouTube. [online] Available at: <https://www.youtube.com/> [Accessed 03 October 2026]. 
+
+
 ## Credits and notes
 
 - Photographs are stock imagery used for illustration only. The people shown are not real staff.
