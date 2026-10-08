@@ -151,10 +151,3 @@ GitHub, 2026. GitHub. [online] Available at: <https://github.com/Relebohile834/X
 GitHub, 2026. GitHub. [online] Available at: <https://github.com/> [Accessed 03 October 2026]. 
 YouTube, 2026. YouTube. [online] Available at: <https://youtu.be/1XnlWSnYKCs> [Accessed 03 October 2026]. 
 YouTube, 2026. YouTube. [online] Available at: <https://www.youtube.com/> [Accessed 03 October 2026]. 
-
-
-## Credits and notes
-
-- Photographs are stock imagery used for illustration only. The people shown are not real staff.
-- Business details such as the phone number and email address are sample details for this academic project.
-- This project was created for coursework at Rosebank International.
